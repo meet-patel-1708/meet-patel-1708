@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Meet Patel!
+# Hi there, I'm Meet Patel!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meet-patel-1708&color=blue&style=flat-square)
 
